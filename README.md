@@ -18,7 +18,7 @@ After several extensive researches we found many interesting websites that helpe
 - [ ] Integration into the MISP project
 
 
-# Collaborateur 
+# Collaborators
 
 - RABER Lydia  https://github.com/lydia-lyly
 - SAIDI Lysa 
