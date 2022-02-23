@@ -7,6 +7,7 @@ Given the diversity of this field, we focused on artificial satellites.
 
 After several extensive researches we found many interesting websites that helped us to build a large knowledge base on the different existing artificial satellites (about 1000).
 
+# Used links 
 # TO-DO LIST
 
 - [x] Search for artificial satellites
@@ -18,8 +19,3 @@ After several extensive researches we found many interesting websites that helpe
 
 
 
-# Collaborateur 
-
-RABER Lydia  https://github.com/lydia-lyly
-SAIDI Lysa 
-MERGEN Mélanie https://github.com/Sinbadde
