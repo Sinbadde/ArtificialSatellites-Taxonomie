@@ -4,3 +4,14 @@ In the context of the realization of a project of the threat intelligence module
 Given the diversity of this field, we focused on artificial satellites. 
 
 # Implementation of the project 
+
+# TO-DO LIST
+
+- [x] Search for artificial satellites
+- [X] Classification and sorting of information
+- [ ] Creating a proper json file in MISP format
+- [ ] Creating a proper json file in MISP format file verification
+- [ ] Validation by the MISP team in charge of the project
+- [ ] Integration into the MISP project
+
+[Validation by the MISP team in charge of project](https://github.com/JordanFabert/DeathTaxonomy#misp-team-in-charge-of-the-project)
