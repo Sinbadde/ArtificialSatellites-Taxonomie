@@ -11,7 +11,7 @@ After several extensive researches we found many interesting websites that helpe
 
 - [x] Search for artificial satellites
 - [X] Classification and sorting of information
-- [ ] Creating a proper json file in MISP format
+- [X] Creating a proper json file in MISP format
 - [ ] Creating a proper json file in MISP format file verification
 - [ ] Validation by the MISP team in charge of the project
 - [ ] Integration into the MISP project
