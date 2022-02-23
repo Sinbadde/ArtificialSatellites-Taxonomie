@@ -12,7 +12,7 @@ After several extensive researches we found many interesting websites that helpe
 - https://www.isro.gov.in/list-of-spacecrafts
 
 ## Json script  ##
-Thanks to this knowledge base we built a json based on examples of taxonomies found in the link https://github.com/MISP/misp-galaxy/blob/main/clusters/android.json
+Thanks to this knowledge base we built a json based on examples of taxonomies found in the link https://github.com/MISP/misp-taxonomies
 This was done by first classifying all the information on excel tables and sorting it before building the [json file](https://github.com/Sinbadde/ArtificialSatellites-Taxonomie/blob/main/machinetag.json) and adapting it to the format of a json script appropriate for a MISP taxonomy.
 
 
