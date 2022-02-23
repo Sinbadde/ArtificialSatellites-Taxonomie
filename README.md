@@ -5,7 +5,7 @@ Given the diversity of this field, we focused on artificial satellites.
 
 # Implementation of the project 
 
-
+After several extensive researches we found many interesting websites that helped us to build a large knowledge base on the different existing artificial satellites (about 1000).
 
 # TO-DO LIST
 
