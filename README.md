@@ -25,5 +25,12 @@ This was done by first classifying all the information on excel tables and sorti
 - [ ] Validation by the MISP team in charge of the project
 - [ ] Integration into the MISP project
 
+# Collaborators 
+
+- RABER Lydia  https://github.com/lydia-lyly
+- SAIDI Lysa https://github.com/yasmine15
+- MERGEN Mélanie https://github.com/Sinbadde
+
+
 
 
