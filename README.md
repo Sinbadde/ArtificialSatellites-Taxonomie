@@ -21,7 +21,7 @@ This was done by first classifying all the information on excel tables and sorti
 - [x] Search for artificial satellites
 - [X] Classification and sorting of information
 - [X] Creating a proper json file in MISP format
-- [ ] File verification
+- [ ] File checking
 - [ ] Validation by the MISP team in charge of the project
 - [ ] Integration into the MISP project
 
