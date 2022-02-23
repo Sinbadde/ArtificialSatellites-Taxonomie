@@ -31,7 +31,7 @@ This was done by first classifying all the information on excel tables and sorti
 - SAIDI Lysa https://github.com/yasmine15
 - MERGEN Mélanie https://github.com/Sinbadde
 
-# MISP Team in charge of the Project 
+# MISP Team in charge of this Project 
 
 - Alexandre DULAUNOY : https://github.com/adulau
 - Raphaël VINOT : https://github.com/Rafiot
