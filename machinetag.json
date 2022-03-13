@@ -8933,11 +8933,11 @@
 	  "numerical_value": 1483,
 	  "description": "Object_Id : 2021-135A, Epoch :   2022-02-25T17:32:16.728288, Mean_Motion :  1.00275612, Eccentricity : 7.26E-05, Inclination  : 0.0387, Ra_Of_Asc_Node  : 160.3012, Arg_Of_Pericenter  : 103.1796, Mean_Anomaly  : 292.3021, Ephemeris-Type  : 0, Classification_Type  : U, Norad_Cat_Id  :  50574, Element_Set_No  :  999, Rev_At_Epoch  :  69, Bstar  :  0, Mean_Motion_Dot  :  -3.0799999999999997E-06, Mean_Motion_Ddot  :  0"
 	 }
-	]
-	},
+    ]
+    },
  {
-	"predicate": "GNSS",
-   	 "entry": [
+    "predicate": "GNSS",
+    "entry": [
 	 {
 	  "value": "GPS BIIR-2  (PRN 13)",
 	  "expanded": "GPS BIIR-2  (PRN 13)",
