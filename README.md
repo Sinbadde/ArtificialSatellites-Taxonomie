@@ -8,7 +8,7 @@ Given the diversity of this field, we focused on artificial satellites.
 
 # Implementation of the project 
 
-After several researches we found some interesting websites which helped us to build a large knowledge base on the different existing artificial satellites (about 1000).
+After several researches we found some interesting websites which helped us to build a large knowledge base on the different existing artificial satellites (about 2000).
 
 ## Used links ##
 - https://space.oscar.wmo.int/satellites
