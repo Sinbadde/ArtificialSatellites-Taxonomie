@@ -19,21 +19,21 @@
     {
       "value": "GNSS",
       "expanded": "GNSS - Navigation Satellites"
-    }  
-	  {
-      "value": "Scientific",
+    } ,
+    {
+      "value": "Space & Earth Science",
       "expanded": "Scientific - Space & Earth Science"
-    }
+    },
   {
-      "value": "Scientific",
+      "value": "Geodetic",
       "expanded": "Scientific - Geodetic"
-    }
+    },
   {
-      "value": "Scientific",
+      "value": "Engineering",
       "expanded": "Scientific - Engineering"
-    }
+    },
   {
-      "value": "Scientific",
+      "value": "Education",
       "expanded": "Scientific - Education"
     }
   ],
