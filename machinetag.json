@@ -17,6 +17,22 @@
       "expanded": "GEO Active Geosynchronous - Communications Satellites"
     },
     {
+      "value": "Tracking",
+      "expanded": " Tracking Satellites"
+    },
+    {
+      "value": "Search & Rescue (SARSAT)",
+      "expanded": " Search & Rescue (SARSAT) Satellites"
+    },
+    {
+      "value": "Earth Ressources",
+      "expanded": " Earth Ressources Satellites"
+    },
+    {
+      "value": "Disaster Monotoring",
+      "expanded": " Disaster Monotoring Satellites "
+    },
+    {
       "value": "GNSS",
       "expanded": "GNSS - Navigation Satellites"
     } ,
