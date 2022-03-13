@@ -8935,14 +8935,14 @@
 	 }
 	]
 	},
-	{
+ {
 	"predicate": "GNSS",
    	 "entry": [
-	{
-	"value": "GPS BIIR-2  (PRN 13)",
-	"expanded": "GPS BIIR-2  (PRN 13)",
-	"numerical_value": 1625,
-	"description": "Object_Id : 1997-035A, Epoch : 2022-03-10T03:28:42.515328, Mean_Motion : 2.00563541, Eccentricity : 0.0056263, Inclination : 55.496, Ra_Of_Asc_Node : 159.5478, Arg_Of_Pericenter : 52.9287, Mean_Anomaly : 307.6136, Ephemeris_Type : 0, Classification_Type : U, Norad_Cat_Id : 24876, Element_Set_No : 999, Rev_At_Epoch : 18066, Bstar : 0, Mean_Motion_Dot : -2.6E-07, Mean_Motion_Ddot : 0"
+	 {
+	  "value": "GPS BIIR-2  (PRN 13)",
+	  "expanded": "GPS BIIR-2  (PRN 13)",
+	  "numerical_value": 1625,
+	  "description": "Object_Id : 1997-035A, Epoch : 2022-03-10T03:28:42.515328, Mean_Motion : 2.00563541, Eccentricity : 0.0056263, Inclination : 55.496, Ra_Of_Asc_Node : 159.5478, Arg_Of_Pericenter : 52.9287, Mean_Anomaly : 307.6136, Ephemeris_Type : 0, Classification_Type : U, Norad_Cat_Id : 24876, Element_Set_No : 999, Rev_At_Epoch : 18066, Bstar : 0, Mean_Motion_Dot : -2.6E-07, Mean_Motion_Ddot : 0"
 	 },
 	 {
 	  "value": "GPS BIIR-4  (PRN 20)",
