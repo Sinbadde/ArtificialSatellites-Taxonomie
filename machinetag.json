@@ -9903,8 +9903,7 @@
 	  "description": "Object_Id : 2020-078A, Epoch : 2022-03-10T17:05:08.111616, Mean_Motion : 2.00566305, Eccentricity : 0.0015355, Inclination : 54.6334, Ra_Of_Asc_Node : 274.0992, Arg_Of_Pericenter : 181.4826, Mean_Anomaly : 177.692, Ephemeris_Type : 0, Classification_Type : U, Norad_Cat_Id : 46826, Element_Set_No : 999, Rev_At_Epoch : 1022, Bstar : 0, Mean_Motion_Dot : 3.2999999999999996E-07, Mean_Motion_Ddot : 0"
 	 }
 	]
-	}
-	  "values": [
+	},
     {
       "predicate": "Space & Earth Science",
       "entry": [
